@@ -25,7 +25,7 @@ function App() {
           {/* Imagen como fondo a la derecha */}
           <div className="hidden md:block absolute inset-y-0 right-0 w-1/2 z-0">
             <img
-              src="./src/assets/images/bot synaptia.png"
+              src="/images/bot-synaptia.png"
               alt="Imagen IA"
               className="w-full h-full object-cover object-right opacity-80"
             />
